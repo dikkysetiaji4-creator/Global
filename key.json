@@ -9,11 +9,9 @@
     "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
-      "👨‍💻 Engine by DPMods 👨‍💻",
-      "🚀 DPMods V4 🚀",
-      "🛠 Stable Build"
+      "Semua ada jalan nya"
     ],
-    "title": "DPMods Core",
+    "title": "Global Bot",
     "updateMsg": "New DPMods version available! Please update.",
     "updateRequired": true,
     "updateUrl": "https://t.me/dpmodsdialog"
