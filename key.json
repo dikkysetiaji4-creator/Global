@@ -17,5 +17,13 @@
     "updateUrl": "https://t.me/dpmodsdialog"
   },
   "BannedHWIDs": {},
-  "Keys": {}
+  "Keys": {
+    "Test1": {
+      "hwid": "RESET",
+      "expireDate": "Life",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
 }
